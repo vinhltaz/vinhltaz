@@ -1,9 +1,12 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/760884755792265286?showDisplayName=true&idleMessage=Just%20a%20normal%20developer)](https://discord.com/users/760884755792265286)
+[![Discord Presence](https://lanyard.cnrad.dev/api/760884755792265286?showDisplayName=true&idleMessage=Just%20a%20normal%20developer)]()
 
 ## Hi there 👋
 
 <a href="mailto:vinhltaz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://discord.com/users/760884755792265286">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 ## Tech Stack
